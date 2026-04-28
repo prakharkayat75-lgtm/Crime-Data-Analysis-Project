@@ -52,7 +52,7 @@ This project provides a clear understanding of crime trends and highlights criti
 
 dashboard (Excel)
 one page summary (Excel)
-dashborad screenshot
+dashborad screenshot (PNG)
 project report (PDF)
 
 
