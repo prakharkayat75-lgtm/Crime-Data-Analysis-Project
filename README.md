@@ -24,7 +24,7 @@ The solution combines the analytical capabilities of **Excel** with the visualiz
 
 > **National Crime Overview**
 
-![Dashboard Page 1](Screenshots/Page1.png)
+![Dashboard Page 1](Screenshot 2026-06-26 134131.png)
 
 > **Women Crime Intelligence**
 
