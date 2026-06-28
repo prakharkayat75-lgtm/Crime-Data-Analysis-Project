@@ -32,7 +32,7 @@ The solution combines the analytical capabilities of **Excel** with the visualiz
 
 > **State Crime Intelligence**
 
-![Dashboard Page 3](Screenshots/Page3.png)
+![Dashboard Page 3](https://github.com/prakharkayat75-lgtm/Crime-Data-Analysis-Project/blob/ca58275a9b68f8a5db2d48b11c517063606de225/Page3.png)
 
 > **District Crime Intelligence**
 
