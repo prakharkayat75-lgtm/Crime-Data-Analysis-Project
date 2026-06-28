@@ -36,7 +36,7 @@ The solution combines the analytical capabilities of **Excel** with the visualiz
 
 > **District Crime Intelligence**
 
-![Dashboard Page 4](Screenshots/Page4.png)
+![Dashboard Page 4](https://github.com/prakharkayat75-lgtm/Crime-Data-Analysis-Project/blob/86b854d65d43ca7c6c3f76d6697cebbcdfb86f29/Page4.png)
 
 ---
 
