@@ -24,7 +24,7 @@ The solution combines the analytical capabilities of **Excel** with the visualiz
 
 > **National Crime Overview**
 
-![Dashboard Page 1](Screenshots/Page1.png)
+![Dashboard Page 1](https://github.com/prakharkayat75-lgtm/Crime-Data-Analysis-Project/blob/e376dc095a63911af64b5ca5153d8f7a1f66008b/Page1.png)
 
 > **Women Crime Intelligence**
 
