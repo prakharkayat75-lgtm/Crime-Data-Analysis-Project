@@ -22,21 +22,27 @@ The solution combines the analytical capabilities of **Excel** with the visualiz
 
 # 📸 Dashboard Preview
 
-> **National Crime Overview**
+### 📍 National Crime Overview
 
-![Dashboard Page 1](Screenshot 2026-06-26 134131.png)
+![National Crime Overview](Screenshots/Page1.png)
 
-> **Women Crime Intelligence**
+---
 
-![Dashboard Page 2](Screenshots/Page2.png)
+### 👩 Women Crime Intelligence
 
-> **State Crime Intelligence**
+![Women Crime Intelligence](Screenshots/Page2.png)
 
-![Dashboard Page 3](Screenshots/Page3.png)
+---
 
-> **District Crime Intelligence**
+### 🗺️ State Crime Intelligence
 
-![Dashboard Page 4](Screenshots/Page4.png)
+![State Crime Intelligence](Screenshots/Page3.png)
+
+---
+
+### 🏙️ District Crime Intelligence
+
+![District Crime Intelligence](Screenshots/Page4.png)
 
 ---
 
