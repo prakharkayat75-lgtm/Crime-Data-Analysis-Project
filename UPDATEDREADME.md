@@ -271,7 +271,7 @@ The repository contains all project files required to understand, reproduce, and
 - PostgreSQL
 - DAX
 - Data Visualization
-- Business Intelligence
+- Python(Numpy, Pandas,Matplot, Seaborn)
 
 
 
