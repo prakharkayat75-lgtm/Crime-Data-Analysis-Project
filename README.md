@@ -28,7 +28,7 @@ The solution combines the analytical capabilities of **Excel** with the visualiz
 
 > **Women Crime Intelligence**
 
-![Dashboard Page 2]()
+![Dashboard Page 2](https://github.com/prakharkayat75-lgtm/Crime-Data-Analysis-Project/blob/cdd86f7d523a11ecb523fdead570ea5a46ea0ddb/Page2.png)
 
 > **State Crime Intelligence**
 
